@@ -8,14 +8,15 @@
 }
 
 .title a {
-  color: #0070f3;
-  text-decoration: none;
+  color: #885f58;
+  text-decoration: #E6785F;
+  font-size: 2.5rem;
 }
 
 .title a:hover,
 .title a:focus,
 .title a:active {
-  text-decoration: underline;
+  color: #E6785F;
 }
 
 .title {
