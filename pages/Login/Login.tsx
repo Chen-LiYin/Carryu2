@@ -8,8 +8,8 @@ export default function Login() {
       <section className="bg-gray-50 min-h-screen flex items-center justify-center ">
         <div className="bg-gray-100 flex rounded-xl shadow-lg max-w-3xl ">
           <div className=" w-80 p-6 ">
-            <h1 className="text-xl font-bold ">電子病歷系統</h1>
-            <p className="my-4 text-sm font-mono">HI doctor! please login</p>
+            <h1 className="text-xl font-bold text-black">電子病歷系統</h1>
+            <p className="my-4 text-sm font-mono text-gray-700">HI doctor! please login</p>
 
             <form className="flex flex-col gap-4 ">
               <input
