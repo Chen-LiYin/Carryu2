@@ -13,7 +13,7 @@ export default function Home() {
 
       <main>
 
-        <h2 className="text-red-500">HELLO</h2>
+        <h2 className="text-red-600">HELLO</h2>
         <h1 className={styles.title}>
           Welcome to EMR
         </h1>
